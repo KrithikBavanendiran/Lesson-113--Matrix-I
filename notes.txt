@@ -1,0 +1,1 @@
+Numpy is numerical python and we use it to deal with 2 dimensional lists
